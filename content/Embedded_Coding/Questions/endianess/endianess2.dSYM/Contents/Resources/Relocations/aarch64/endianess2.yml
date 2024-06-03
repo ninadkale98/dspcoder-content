@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ninadkale/dspcoder/theEmbeddedNewTestament.github.io/Embedded_Coding/Questions/endianess/endianess2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _is_small_endian, symObjAddr: 0x0, symBinAddr: 0x100003E1C, symSize: 0x38 }
+  - { offsetInCU: 0x74, offset: 0x74, size: 0x8, addend: 0x0, symName: _is_small_endian, symObjAddr: 0x0, symBinAddr: 0x100003E1C, symSize: 0x38 }
+  - { offsetInCU: 0xAA, offset: 0xAA, size: 0x8, addend: 0x0, symName: _mem_layout, symObjAddr: 0x38, symBinAddr: 0x100003E54, symSize: 0x8C }
+  - { offsetInCU: 0xEA, offset: 0xEA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xC4, symBinAddr: 0x100003EE0, symSize: 0x60 }
+...

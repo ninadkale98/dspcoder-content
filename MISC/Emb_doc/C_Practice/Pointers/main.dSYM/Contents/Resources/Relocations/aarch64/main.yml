@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ninadkale/Embedded/C_Practice/Pointers/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z7str_endPcc, symObjAddr: 0x0, symBinAddr: 0x100003CBC, symSize: 0x94 }
+  - { offsetInCU: 0x46, offset: 0x46, size: 0x8, addend: 0x0, symName: __Z7str_endPcc, symObjAddr: 0x0, symBinAddr: 0x100003CBC, symSize: 0x94 }
+  - { offsetInCU: 0x80, offset: 0x80, size: 0x8, addend: 0x0, symName: __Z11str_cat_oldPcS_, symObjAddr: 0x94, symBinAddr: 0x100003D50, symSize: 0xF0 }
+  - { offsetInCU: 0xC8, offset: 0xC8, size: 0x8, addend: 0x0, symName: __Z7str_catPcS_, symObjAddr: 0x184, symBinAddr: 0x100003E40, symSize: 0xF8 }
+  - { offsetInCU: 0x11E, offset: 0x11E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x27C, symBinAddr: 0x100003F38, symSize: 0x44 }
+...

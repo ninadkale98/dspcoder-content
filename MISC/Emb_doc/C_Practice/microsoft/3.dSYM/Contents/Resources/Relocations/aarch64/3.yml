@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ninadkale/Embedded/C_Practice/microsoft/3'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z14change_xth_bitPtib, symObjAddr: 0x0, symBinAddr: 0x100003DB8, symSize: 0x74 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z14change_xth_bitPtib, symObjAddr: 0x0, symBinAddr: 0x100003DB8, symSize: 0x74 }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: __Z10total_bitst, symObjAddr: 0x74, symBinAddr: 0x100003E2C, symSize: 0x4C }
+  - { offsetInCU: 0xBF, offset: 0xBF, size: 0x8, addend: 0x0, symName: __Z17change_xth_bit_biPtib, symObjAddr: 0xC0, symBinAddr: 0x100003E78, symSize: 0xB4 }
+  - { offsetInCU: 0x111, offset: 0x111, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x174, symBinAddr: 0x100003F2C, symSize: 0x58 }
+...

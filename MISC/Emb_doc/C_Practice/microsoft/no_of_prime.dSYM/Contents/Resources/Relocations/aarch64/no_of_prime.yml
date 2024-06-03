@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ninadkale/Embedded/C_Practice/microsoft/no_of_prime'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z8is_primei, symObjAddr: 0x0, symBinAddr: 0x100003E04, symSize: 0xB0 }
+  - { offsetInCU: 0x307, offset: 0x307, size: 0x8, addend: 0x0, symName: __Z8is_primei, symObjAddr: 0x0, symBinAddr: 0x100003E04, symSize: 0xB0 }
+  - { offsetInCU: 0x35D, offset: 0x35D, size: 0x8, addend: 0x0, symName: __Z4sqrtB7v160006IiENSt3__19enable_ifIXsr3std11is_integralIT_EE5valueEdE4typeES2_, symObjAddr: 0xB0, symBinAddr: 0x100003EB4, symSize: 0x24 }
+  - { offsetInCU: 0x394, offset: 0x394, size: 0x8, addend: 0x0, symName: __Z11no_of_primei, symObjAddr: 0xD4, symBinAddr: 0x100003ED8, symSize: 0x74 }
+  - { offsetInCU: 0x3EA, offset: 0x3EA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x148, symBinAddr: 0x100003F4C, symSize: 0x44 }
+...

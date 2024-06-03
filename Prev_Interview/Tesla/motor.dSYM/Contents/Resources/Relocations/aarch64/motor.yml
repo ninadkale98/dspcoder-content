@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ninadkale/dspcoder.com/Tesla/motor'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z11motor_modeldd, symObjAddr: 0x0, symBinAddr: 0x100003D70, symSize: 0x88 }
+  - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: __Z11motor_modeldd, symObjAddr: 0x0, symBinAddr: 0x100003D70, symSize: 0x88 }
+  - { offsetInCU: 0x5C, offset: 0x5C, size: 0x8, addend: 0x0, symName: __ZZ11motor_modelddE1t, symObjAddr: 0x14A0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x340, offset: 0x340, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x88, symBinAddr: 0x100003DF8, symSize: 0x130 }
+...

@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "files.associations": {
+        "dsp28x_project.h": "c",
+        "dsp2833x_device.h": "c"
+    }
+}
