@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ninadkale/Embedded/micrograd_C/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __init, symObjAddr: 0x0, symBinAddr: 0x100003688, symSize: 0x50 }
+  - { offsetInCU: 0xF0, offset: 0xF0, size: 0x8, addend: 0x0, symName: __init, symObjAddr: 0x0, symBinAddr: 0x100003688, symSize: 0x50 }
+  - { offsetInCU: 0x114, offset: 0x114, size: 0x8, addend: 0x0, symName: __add, symObjAddr: 0x50, symBinAddr: 0x1000036D8, symSize: 0x60 }
+  - { offsetInCU: 0x159, offset: 0x159, size: 0x8, addend: 0x0, symName: __mul, symObjAddr: 0xB0, symBinAddr: 0x100003738, symSize: 0x64 }
+  - { offsetInCU: 0x19E, offset: 0x19E, size: 0x8, addend: 0x0, symName: __tanh, symObjAddr: 0x114, symBinAddr: 0x10000379C, symSize: 0x58 }
+  - { offsetInCU: 0x1D5, offset: 0x1D5, size: 0x8, addend: 0x0, symName: _build_topo, symObjAddr: 0x16C, symBinAddr: 0x1000037F4, symSize: 0x1F0 }
+  - { offsetInCU: 0x26D, offset: 0x26D, size: 0x8, addend: 0x0, symName: _backward, symObjAddr: 0x35C, symBinAddr: 0x1000039E4, symSize: 0x2C8 }
+  - { offsetInCU: 0x313, offset: 0x313, size: 0x8, addend: 0x0, symName: _init_Neuron, symObjAddr: 0x624, symBinAddr: 0x100003CAC, symSize: 0x9C }
+  - { offsetInCU: 0x365, offset: 0x365, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x6C0, symBinAddr: 0x100003D48, symSize: 0x1F4 }
+...
