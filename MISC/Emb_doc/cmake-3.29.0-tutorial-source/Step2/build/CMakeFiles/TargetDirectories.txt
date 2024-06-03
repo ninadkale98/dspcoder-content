@@ -1,6 +1,0 @@
-/Users/ninadkale/Embedded/cmake-3.29.0-tutorial-source/Step2/build/CMakeFiles/Tutorial.dir
-/Users/ninadkale/Embedded/cmake-3.29.0-tutorial-source/Step2/build/CMakeFiles/edit_cache.dir
-/Users/ninadkale/Embedded/cmake-3.29.0-tutorial-source/Step2/build/CMakeFiles/rebuild_cache.dir
-/Users/ninadkale/Embedded/cmake-3.29.0-tutorial-source/Step2/build/MathFunctions/CMakeFiles/MathFunctions.dir
-/Users/ninadkale/Embedded/cmake-3.29.0-tutorial-source/Step2/build/MathFunctions/CMakeFiles/edit_cache.dir
-/Users/ninadkale/Embedded/cmake-3.29.0-tutorial-source/Step2/build/MathFunctions/CMakeFiles/rebuild_cache.dir

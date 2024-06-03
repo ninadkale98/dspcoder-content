@@ -1,9 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/ninadkale/dspcoder.com/Embd/Why_program_crash/seg_fault'
-relocations:
-  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5func2v, symObjAddr: 0x0, symBinAddr: 0x100003F18, symSize: 0x1C }
-  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: __Z5func2v, symObjAddr: 0x0, symBinAddr: 0x100003F18, symSize: 0x1C }
-  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: __Z5func1v, symObjAddr: 0x1C, symBinAddr: 0x100003F34, symSize: 0x20 }
-  - { offsetInCU: 0x82, offset: 0x82, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3C, symBinAddr: 0x100003F54, symSize: 0x24 }
-...
